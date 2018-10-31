@@ -1,15 +1,15 @@
-title: Welcome to Flexton
-description: Flexton is a responsive and ultra-minimal theme for Jekyll.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "flexton.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
+title: "Welcome to SDEE'sReal.Life"
+description: A wonderful kind of stories about the Solution Dee Co.,Ltd.
+baseurl: "/odod.opop" # the subpath of your site, e.g. /blog
+url: "http://sdeehub.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
-author-name:    Clayton Hanson
-author-image:   1.jpg
-author-job:     Web Developer
+author-name:    SDEE'sReal.Life
+author-image:   reallife_128x128.jpg
+author-job:     Solution Dee Company Limited
 author-email:   your-email@domain.com # Add your email for contant form.
 author-twitter: artemsheludko_ # Add your twitter account
-about-author:   I am a web developer focusing on front-end development. Always hungry to keep learning.
+about-author:   ที่สำหรับแบ่งปันเรื่องราวอีกหลายด้านนอกจากการทำงานประจำในแต่ละวันของพวกเราชาว โซลูชั่น ดี
 
 # Social settings
 social-twitter:   artemsheludko_
@@ -18,7 +18,7 @@ social-github:    artemsheludko
 social-pinterest: artemsheludko
 social-instagram: artemsheludko_
 social-youtube:
-social-vk:   
+social-vk:
 social-linkedin:
 
 # Newsletter
