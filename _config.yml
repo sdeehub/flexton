@@ -1,6 +1,6 @@
 title: "Welcome to SDEE'sReal.Life"
 description: A wonderful kind of stories about the Solution Dee Co.,Ltd.
-baseurl: "/odod.opop" # the subpath of your site, e.g. /blog
+baseurl: "/real.life" # the subpath of your site, e.g. /blog
 url: "http://sdeehub.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
