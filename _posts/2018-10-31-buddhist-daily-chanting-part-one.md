@@ -3,8 +3,7 @@ layout: post
 title: "บทสวดมนต์ (๑)"
 image:
   path: 2018-10-31/george-kochiashvili-585811-unsplash.jpg
-  caption: Photo by <a href="https://unsplash.com/@gotravelworld">George Kochiashvili
-</a> on <a href="https://unsplash.com/">Unsplash</a>
+  caption: Photo by <a href="https://unsplash.com/@gotravelworld">George Kochiashvili</a> on <a href="https://unsplash.com/">Unsplash</a>
 date: 2018-10-31 09:39:59 +0700
 categories: buddhism
 tags: บทสวดมนต์
