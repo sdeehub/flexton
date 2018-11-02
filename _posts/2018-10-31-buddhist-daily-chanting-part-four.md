@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "บทสวดมนต์ (๔)"
-image: 2018-10-31/jed-adan-5784-unsplash.jpg
+image:
+  path: 2018-10-31/jed-adan-5784-unsplash.jpg
+  caption: Photo by <a href="https://unsplash.com/@jedadan">Jed Adan
+</a> on <a href="https://unsplash.com/">Unsplash</a>
 date: 2018-10-31 09:09:59 +0700
 categories: buddhism
 tags: บทสวดมนต์

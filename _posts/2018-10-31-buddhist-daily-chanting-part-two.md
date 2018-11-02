@@ -3,7 +3,7 @@ layout: post
 title: "บทสวดมนต์ (๒)"
 image:
   path: 2018-10-31/dorota-dylka-416612-unsplash.jpg
-  caption: Photo by  <a href="https://www.w3schools.com">Visit W3Schools.com!</a> 
+  caption: Photo by <a href="https://unsplash.com/@dylka">dorota dylka</a> on <a href="https://unsplash.com/">Unsplash</a>
 date: 2018-10-31 09:29:59 +0700
 categories: buddhism
 tags: บทสวดมนต์
