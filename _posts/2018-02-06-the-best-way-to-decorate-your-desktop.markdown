@@ -1,7 +1,9 @@
 ---
 layout: post
 title: The best way to decorate your desktop
-image: 10.jpg
+image:
+  path: 10.jpg
+  caption:
 date: 2018-02-06 10:05:20 +0200
 tags: [workflow, decoration]
 categories: decoration

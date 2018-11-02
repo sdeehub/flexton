@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Plan your day from the evening
-image: 11.jpg
+image:
+  path: 11.jpg
+  caption:
 date: 2018-02-06 10:10:20 +0200
 tags: [life, work, productivity]
 categories: life

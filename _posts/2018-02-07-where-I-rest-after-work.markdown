@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Where I rest after work
-image: 3.jpg
+image:
+  path: 3.jpg
+  caption:
 date: 2018-02-07 18:23:20 +0200
 tags: [rest, work]
 categories: rest

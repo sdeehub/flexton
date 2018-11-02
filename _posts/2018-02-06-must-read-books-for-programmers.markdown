@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Must read books for programmers
-image: 6.jpg
+image:
+  path: 6.jpg
+  caption:
 date: 2018-02-06 10:23:20 +0200
 tags: [books, rest]
 categories: books

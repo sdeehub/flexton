@@ -1,7 +1,9 @@
 ---
 layout: post
 title: 10 Tips to improve  your workflow
-image: 4.jpg
+image:
+  path: 4.jpg
+  caption:
 date: 2018-02-07 17:13:18 +0200
 tags: workflow programming
 categories:
