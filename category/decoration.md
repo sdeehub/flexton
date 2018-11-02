@@ -1,4 +1,4 @@
 ---
 layout: category-page
-categories: decoration
+title: decoration
 ---
