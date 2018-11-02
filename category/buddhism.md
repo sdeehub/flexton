@@ -1,4 +1,4 @@
 ---
 layout: category-page
-title: บทสวดมนต์
+title: buddhism
 ---
