@@ -1,4 +1,4 @@
 ---
-layout: none
+layout: category-page
 category: decoration
 ---
