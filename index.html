@@ -3,9 +3,6 @@ layout: home
 ---
 
 {% include header.html %}
-<!-- <div class="c-posts o-opacity" data-page="{{ currentPage }}" data-totalPages="{{ paginator.total_pages }}"> -->
-  <!--{% for post in site.posts limit:site.paginate offset:offset %}-->
-  <!--{% for post in paginator.posts %}-->
   <article class="c-post">
     {% if post.image %}
     <a class="c-post-thumbnail o-opacity" style="background-image: url({{"/images/" | prepend: site.baseurl | append : post.image.path}})"
@@ -21,8 +18,5 @@ layout: home
           plus: 250 | divided_by: 250 | append: " minute read" }}{% endunless %}</span>
     </div>
   </article> <!-- /.c-post -->
-  <!--{% endfor %}-->
-  <!--{% endfor %}-->
-<!-- </div> /.c-posts -->
 {% include pagination.html %}
 {% include categories.html %}
