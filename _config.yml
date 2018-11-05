@@ -7,7 +7,7 @@ url: "http://sdeehub.github.io" # the base hostname & protocol for your site, e.
 author-name:    SDEE'sReal.Life
 author-image:   reallife_128x128.jpg
 author-job:     Solution Dee Company Limited
-author-email:   your-email@domain.com # Add your email for contant form.
+author-email:   odd.daboss@gmail.com # Add your email for contant form.
 author-twitter: odd_daboss # Add your twitter account
 about-author:   ในอีกหลายเรื่อง และ อีกหลายๆ อย่าง ฯลฯ ในระหว่างทาง และ ความเป็นไปของพวกเรา โซลูชั่น ดี
 
@@ -28,7 +28,7 @@ mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.
 google-analytics: # Add your identifier. For example UA-99631805-1
 
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: sdeehub-github-io-real-life # Add your shortname for Disqus Comment. For example mr-brown
 
 # Build settings
 markdown: kramdown
