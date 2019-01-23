@@ -20,6 +20,6 @@ tags: f426
 
 แต่สำหรับเรื่องที่เราคิดว่าไม่ดีตรงนี้ จะขอให้เราทำเป็นพิเศษเพิ่มขึ้นมาด้วยแบบฝึกหัดนี้ คือ สำหรับเรื่องที่เราคิดว่าไม่ดี ที่เมื่อได้เกิดขึ้นแล้ว เราก็ยังยืนยันที่จะขอบคุณในเรื่องนั้นที่ได้เกิดขึ้น และก็ให้เรามองหาสิ่งดีๆ ให้เกิดอยู่ในความรู้สึกของเรา มองหาสิ่งที่ดีในผลของการเกิดขึ้นนั้น เราอาจจะไปห้ามเหตุต่างๆ ไม่ให้ส่งผลไม่ได้ แต่ที่สำคัญคือเราสามารถควบคุม ฝึกฝน และเรียนรู้ ปรับเปลี่ยนมุมมอง-วิธีคิดของเราได้
 
-![Buddha Quote](https://res.cloudinary.com/sdees-reallife/image/upload/e_shadow:40/v1545656513/Inspirational-Quotes-on-Buddhism-Inspiring-Buddhist-Quotes-Motivational-Uplifting-Buddha-Quotes.jpg)
+![Buddha Quote](https://res.cloudinary.com/sdees-reallife/image/upload/v1545656513/Inspirational-Quotes-on-Buddhism-Inspiring-Buddhist-Quotes-Motivational-Uplifting-Buddha-Quotes.jpg)
 
 ไม่ว่าเรื่องนั้นสิ่งนั้น ผลของสิ่งนั้นจะเป็นเช่นไร ลองคิดเป็นเกมว่าเราจะขอบคุณและมองหาสิ่งดีๆ จากเรื่องนั้นสิ่งนั้นได้อย่างไร

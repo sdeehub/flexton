@@ -26,7 +26,7 @@ tags: Self-Development
 
 5. ตื่นนอนแต่เช้า - ด้วยความเบิกบาน ด้วยความขอบคุณ ด้วยความยินดีและสงสัยใคร่รับรู้ในความสำเร็จของวันใหม่ ของชีวิตใหม่ ที่กำลังจะเกิดขึ้น เราอยู่กับวันนี้ เราอยู่กับตอนนี้ เราอยู่กับความสำเร็จและการเปลี่ยนแปลงในขณะนี้
 
-![Each morning](https://res.cloudinary.com/sdees-reallife/image/upload/e_shadow:40/v1544590388/morning-of-new-life.jpg)
+![Each morning](https://res.cloudinary.com/sdees-reallife/image/upload/v1544590388/morning-of-new-life.jpg)
 
 *ขอบคุณภาพประกอบจาก:* [QUOTESGRAM](https://quotesgram.com/uplifting-buddha-quotes/)
 
