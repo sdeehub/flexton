@@ -26,4 +26,4 @@ tags: confession
 
 ![Forgiveness](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,e_shadow:40,w_400/v1542160313/forgiveness.jpg)
 
-*ขอบคุณภาพประกอบจาก:* [QUOTESGRAM](https://quotesgram.com/forgiveness-relationship-quotes/)
+<sup><sub>*ขอบคุณภาพประกอบจาก:* [QUOTESGRAM](https://quotesgram.com/forgiveness-relationship-quotes/)</sub></sup>

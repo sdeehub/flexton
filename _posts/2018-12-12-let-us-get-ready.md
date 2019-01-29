@@ -28,7 +28,7 @@ tags: Self-Development
 
 ![Each morning](https://res.cloudinary.com/sdees-reallife/image/upload/v1544590388/morning-of-new-life.jpg)
 
-*ขอบคุณภาพประกอบจาก:* [QUOTESGRAM](https://quotesgram.com/uplifting-buddha-quotes/)
+<sup><sub>พประกอบจาก:* [QUOTESGRAM](https://quotesgram.com/uplifting-buddha-quotes/)</sub></sup>
 
 จากข้อต่างๆ เหล่านี้ถึงไม่มากมาย แต่ว่าการปรับตัวให้ได้ และตั้งใจทำให้ดีนั้น ก็เป็นเรื่องที่ต้องฝึกและพากเพียรอยู่มากเช่นกัน หมั่นอดทนและอ่อนโยนกับตัวเรา แต่จงทำให้ดีที่สุด เพราะเมื่อได้ลงมือทำแล้ว นั่นย่อมแน่นอนว่า ผลสำเร็จก็ได้เกิดขึ้นแล้วในการเปลี่ยนแปลง และในกระบวนการลงมือทำนั่นเอง
 
