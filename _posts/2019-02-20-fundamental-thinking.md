@@ -2,8 +2,8 @@
 layout: post
 title: "หลักคิดพื้นฐานของตอนนี้"
 image:
- path: 2019-01-25/joshua-rawson-harris-668614-unsplash.jpg
- caption: Photo by <a href="https://unsplash.com/@joshrh19">Joshua Rawson-Harris</a> on <a href="https://unsplash.com/">Unsplash</a>
+ path: https://res.cloudinary.com/sdees-reallife/image/upload/v1550637650/ig.jpg
+ caption: รถและคนช่วยกันขน-บริจาคของให้มูลนิธิวัดสวนแก้ว
 date: 2019-02-20 11:01:57 +07
 categories: culture
 tags: workplace
