@@ -2,7 +2,7 @@
 layout: post
 title: "ความหวังสุดท้ายของใครสักคน"
 image:
- path: 2018-11-14/rafal-malinowski-203415-unsplash.jpg
+ path: https://source.unsplash.com/PgoamTN42kE
  caption: Photo by <a href="https://unsplash.com/@afterdesign">Rafał Malinowski</a> on <a href="https://unsplash.com/">Unsplash</a>
 date: 2018-11-14 08:19:28 +0700
 categories: life

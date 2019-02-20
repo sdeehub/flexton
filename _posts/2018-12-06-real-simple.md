@@ -2,8 +2,8 @@
 layout: post
 title: "ฟังดูก็จะงงๆ และเหมือนว่าจะกวนๆ"
 image:
- path: 2018-12-06/new-year-blessing.jpg
- caption:
+ path: https://res.cloudinary.com/sdees-reallife/image/upload/v1550639777/new-year-blessing.jpg
+ caption: ท่านพุทธทาสภิกขุ (พ.ศ. 2449-2536)
 date: 2018-12-06 20:06:33 +0700
 categories: buddhism
 tags: truth

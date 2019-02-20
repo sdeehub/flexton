@@ -2,8 +2,8 @@
 layout: post
 title: "ปรับตัวให้ได้ ตั้งใจให้ดี"
 image:
- path: 2018-12-12/SAM_2968.JPG
- caption:
+ path: https://res.cloudinary.com/sdees-reallife/image/upload/v1550639670/SAM_2968.jpg
+ caption: เช้าวันใหม่
 date: 2018-12-12 10:50:06 +0700
 categories: culture
 tags: Self-Development

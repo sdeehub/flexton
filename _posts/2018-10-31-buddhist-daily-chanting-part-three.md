@@ -2,7 +2,7 @@
 layout: post
 title: "บทสวดมนต์ (๓)"
 image:
-  path: 2018-10-31/mattia-faloretti-709077-unsplash.jpg
+  path: https://source.unsplash.com/jbrR_ESWK2A
   caption: Photo by <a href="https://unsplash.com/@mattiafalo">Mattia Faloretti</a> on <a href="https://unsplash.com/">Unsplash</a>
 date: 2018-10-31 09:19:59 +0700
 categories: buddhism
