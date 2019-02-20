@@ -2,7 +2,7 @@
 layout: post
 title: "เหนือ​จีนคือยิว - การเลี้ยงลูกในสังคมยิว (จากเรื่องที่ Fwd มาใน Line)"
 image:
- path: 2019-01-09/nicole-baster-1174131-unsplash.jpg
+ path: https://source.unsplash.com/-AkqIL4YqMw
  caption: Photo by <a href="https://unsplash.com/@nicolebaster">Nicole Baster</a> on <a href="https://unsplash.com/">Unsplash</a>
 date: 2019-01-09 17:32:28 +07
 categories: reading

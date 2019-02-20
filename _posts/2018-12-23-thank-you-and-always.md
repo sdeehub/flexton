@@ -2,8 +2,8 @@
 layout: post
 title: "ขอบคุณและมองหาสิ่งดีๆ"
 image:
- path: 2018-12-23/buddha-quotes-karma-zen-quotes-spirituality.jpg
- caption:
+ path: https://source.unsplash.com/ukzHlkoz1IE
+ caption: Photo by <a href="https://unsplash.com/@austinchan">Austin Chan</a> on <a href="https://unsplash.com/">Unsplash</a>
 date: 2018-12-23 08:41:05 +07
 categories: culture
 tags: f426
