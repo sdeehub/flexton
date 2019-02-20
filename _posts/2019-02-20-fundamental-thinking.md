@@ -2,7 +2,7 @@
 layout: post
 title: "หลักคิดพื้นฐานของตอนนี้"
 image:
- path: https://res.cloudinary.com/sdees-reallife/image/upload/v1550637650/ig.jpg
+ path: https://res.cloudinary.com/sdees-reallife/image/upload/c_crop,g_south,h_600,w_1080,y_500/v1550637650/ig.jpg
  caption: รถและคนช่วยกันขน-บริจาคของให้มูลนิธิวัดสวนแก้ว
 date: 2019-02-20 11:01:57 +07
 categories: culture
