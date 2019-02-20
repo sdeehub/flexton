@@ -2,8 +2,8 @@
 layout: post
 title: "ของฝากจากตอน(กลับจาก)ไปเที่ยวทะเล"
 image:
- path: 2019-01-23/SAM_3381.JPG
- caption: ภาพถ่ายตอนไปทะเล - Sunday Jul 17, 2011
+ path: https://res.cloudinary.com/sdees-reallife/image/upload/v1550638495/SAM_3381.jpg
+ caption: Sunday Jul 17, 2011
 date: 2019-01-23 15:12:55 +07
 categories: reading
 tags: souvenir
