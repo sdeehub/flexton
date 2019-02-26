@@ -22,4 +22,4 @@ tags: f426
 
 ![Buddha Quote](https://res.cloudinary.com/sdees-reallife/image/upload/v1545656513/Inspirational-Quotes-on-Buddhism-Inspiring-Buddhist-Quotes-Motivational-Uplifting-Buddha-Quotes.jpg)
 
-ไม่ว่าเรื่องนั้นสิ่งนั้น ผลของสิ่งนั้นจะเป็นเช่นไร ลองคิดเป็นเกมว่าเราจะขอบคุณและมองหาสิ่งดีๆ จากเรื่องนั้นสิ่งนั้นได้อย่างไร
+ไม่ว่าเรื่องนั้นสิ่งนั้น ผลของสิ่งนั้นจะเป็นเช่นไร ลองคิดทบทวนดูให้ดีๆ ว่าเราจะขอบคุณและมองหาสิ่งดีๆ จากเรื่องนั้นสิ่งนั้นได้อย่างไร
