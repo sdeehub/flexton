@@ -6,7 +6,7 @@ image:
  caption: Photo by <a href="https://unsplash.com/@majomaya">Yan Laurichesse</a> on <a href="https://unsplash.com/">Unsplash</a>
 date: 2020-07-15 T16:40:36+07:00
 categories: workshop
-tags: F426
+tags: f426
 ---
 วันนี้มาลองพูดจาสนุก ๆ กันดู ดูว่าใครจะลิ้นพันกัน หมายถึงพูดแล้วลิ้นพัน (ประมาณนั้น) ไม่ใช่ คน 2 คน หรือ หลาย ๆ คนเอาลิ้นออกมาพันกัน แต่ถ้าทุกคนพูดตามนี้คิดว่าน่าจะลิ้นพันกันแน่ ๆ - พูดอะไรน่ะเหรอ? ว่าแล้วมาลองกันเลย
 
