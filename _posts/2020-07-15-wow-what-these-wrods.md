@@ -2,8 +2,8 @@
 layout: post
 title: "ลิ้นพันกัน"
 image:
- path: https://source.unsplash.com/ppKcYi1CXcI
- caption: Photo by <a href="https://unsplash.com/@anshaaleena">Anusha Barwa</a> on <a href="https://unsplash.com/">Unsplash</a>
+ path: https://source.unsplash.com/3qZnN_M45Ds
+ caption: Photo by <a href="https://unsplash.com/@majomaya">Yan Laurichesse</a> on <a href="https://unsplash.com/">Unsplash</a>
 date: 2020-07-15 T16:40:36+07:00
 categories: workshop
 tags: F426
