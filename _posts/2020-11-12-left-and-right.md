@@ -15,7 +15,7 @@ tags: f426
 - ชีวิตโดยรวม
 - ส่วนตัวและสังคม
 
-![green meal](https://source.unsplash.com/kcRFW-Hje8Y/300x200)
+![green meal](https://source.unsplash.com/kcRFW-Hje8Y/600x400)
 
 *Photo by [Vitalii Pavlyshynets](https://unsplash.com/@fishmac) on [Unsplash](https://unsplash.com)*
 
@@ -30,7 +30,7 @@ tags: f426
 ความทรงจำที่จะคงอยู่ และ ชีวิตที่จะจากไป\
 ร่างกาย ลมหายใจ และ พลังจักรวาล
 
-![and breath](https://source.unsplash.com/buymYm3RQ3U/300x200)
+![and breath](https://source.unsplash.com/buymYm3RQ3U/600x400)
 
 *Photo by [Max van den Oetelaar](https://unsplash.com/@maxvdo) on [Unsplash](https://unsplash.com)*
 

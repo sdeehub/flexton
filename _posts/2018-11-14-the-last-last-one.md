@@ -24,6 +24,6 @@ tags: confession
 
 แค่เพียงสักครั้งเดียว แต่นั่นก็ถือว่ามากเกินพอแล้ว ใช่! แค่สักครั้งก็มากเกินไปที่จะกักขังตัวเราไว้ ~ ได้ตลอดกาล
 
-![Forgiveness](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,e_shadow:40,w_400/v1542160313/forgiveness.jpg)
+![Forgiveness](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,e_shadow:40,w_600/v1542160313/forgiveness.jpg)
 
 *ขอบคุณภาพประกอบจาก: [QUOTESGRAM](https://quotesgram.com/forgiveness-relationship-quotes/)*
